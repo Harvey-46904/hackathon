@@ -14,6 +14,7 @@ Una vez tengan instalado en su computador proceder a realizar los pasos
 ```markdown
 1. npm install
 2. npm start
+3. Abrir en el puerto que se indica
 ```markdown
 # Backend
 ## Descripcion
