@@ -1,0 +1,26 @@
+Backendpro/node_modules
+Backendpro/public/hot
+Backendpro/public/storage
+Backendpro/storage/*.key
+Backendpro/vendor
+Backendpro.env
+Backendpro.env.backup
+Backendpro.phpunit.result.cache
+BackendproHomestead.json
+BackendproHomestead.yaml
+Backendpronpm-debug.log
+Backendproyarn-error.log
+Backendpro/.idea
+Backendpro/.vscode
+Backendpro
+# Wave ignores.
+Backendpro/public/.well-known
+Backendpro/.vagrant
+Backendpro/wave-pro
+BackendproHomestead.json
+BackendproHomestead.yaml
+Backendpronpm-debug.log
+Backendproyarn-error.log
+Backendpro.DS_Store
+Backendpro/wave/vendor/
+Backendpro/public/wave/docs
