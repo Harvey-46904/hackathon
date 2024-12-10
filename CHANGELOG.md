@@ -13,6 +13,9 @@ git commit -m "V1.HR.3: Implementado módulo de reportes"
 ### V1.HR.2
 **Cambios:**  
 -Base inicial de cambios.
+### V1.HR.3
+**Cambios:**  
+-Backend.
 ## Camilo Cordoba
 
 
